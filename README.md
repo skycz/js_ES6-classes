@@ -1,0 +1,1 @@
+# js_ES6-classes
